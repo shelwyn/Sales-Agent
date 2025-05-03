@@ -1,0 +1,19 @@
+# API dependencies
+fastapi==0.103.1
+uvicorn==0.23.2
+pydantic==2.3.0
+
+# Google Generative AI
+google-generativeai==0.3.1
+
+# Utilities
+python-dotenv==1.0.0
+requests==2.31.0
+urllib3==2.0.4
+
+# LangChain tools
+langchain==0.0.285
+langchain-core==0.1.7
+
+# For UUID generation
+uuid==1.30

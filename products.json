@@ -1,0 +1,52 @@
+[
+  {
+    "product_id": "P001",
+    "product_name": "Smart Watch",
+    "price": 199.99
+  },
+  {
+    "product_id": "P002",
+    "product_name": "Wireless Earbuds",
+    "price": 89.99
+  },
+  {
+    "product_id": "P003",
+    "product_name": "Bluetooth Speaker",
+    "price": 59.99
+  },
+  {
+    "product_id": "P004",
+    "product_name": "Laptop Backpack",
+    "price": 49.99
+  },
+  {
+    "product_id": "P005",
+    "product_name": "Phone Charger",
+    "price": 19.99
+  },
+  {
+    "product_id": "P006",
+    "product_name": "Fitness Tracker",
+    "price": 79.99
+  },
+  {
+    "product_id": "P007",
+    "product_name": "External SSD",
+    "price": 129.99
+  },
+  {
+    "product_id": "P008",
+    "product_name": "Gaming Mouse",
+    "price": 39.99
+  },
+  {
+    "product_id": "P009",
+    "product_name": "Mechanical Keyboard",
+    "price": 89.99
+  },
+  {
+    "product_id": "P010",
+    "product_name": "Noise Cancelling Headphones",
+    "price": 149.99
+  }
+]
